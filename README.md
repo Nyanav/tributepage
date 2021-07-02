@@ -1,0 +1,1 @@
+A tribute page for Steve Jobs as assignment for Freecodecamp's Responsive Web Design Certification
